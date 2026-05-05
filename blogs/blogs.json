@@ -1,0 +1,13 @@
+{
+  "repo": "merbridge",
+  "feeds": [
+    {
+      "source": "https://merbridge.io/blog/",
+      "feed_url": "https://merbridge.io/index.xml",
+      "saved": 10,
+      "title": "Merbridge \u2013 Merbridge"
+    }
+  ],
+  "post_count": 10,
+  "fetched": "2026-05-03T23:31:40Z"
+}
