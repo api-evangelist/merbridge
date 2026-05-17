@@ -33,7 +33,7 @@ apis:
     properties:
       - type: Documentation
         url: https://merbridge.io/docs/
-      - type: Getting Started
+      - type: GettingStarted
         url: https://merbridge.io/docs/getting-started
       - type: Blog
         url: https://merbridge.io/blog/
@@ -44,7 +44,7 @@ common:
     url: https://merbridge.io/
   - type: Documentation
     url: https://merbridge.io/docs/
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/merbridge
   - type: SourceCode
     url: https://github.com/merbridge/merbridge
