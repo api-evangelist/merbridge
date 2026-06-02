@@ -2,12 +2,24 @@
   "repo": "merbridge",
   "feeds": [
     {
-      "source": "https://merbridge.io/blog/",
+      "source": "https://merbridge.io/index.xml",
       "feed_url": "https://merbridge.io/index.xml",
-      "title": "Merbridge \u2013 Merbridge",
-      "saved": 6
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://merbridge.io/docs/getting-started",
+      "error": "HTTPError"
+    },
+    {
+      "source": "https://github.com/merbridge/merbridge",
+      "feed_url": "https://github.com/merbridge/merbridge",
+      "title": "",
+      "saved": 0,
+      "method": "none"
     }
   ],
   "post_count": 16,
-  "fetched": "2026-05-17T20:20:35Z"
+  "fetched": "2026-06-01T23:35:02Z"
 }
