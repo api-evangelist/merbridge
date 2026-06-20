@@ -6,7 +6,7 @@ description: >-
   to shorten the datapath between sidecars and services. It is a CNCF Sandbox
   project and supports Istio, Linkerd2, and Kuma.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - CNCF
   - eBPF
