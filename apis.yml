@@ -40,6 +40,8 @@ apis:
       - type: SourceCode
         url: https://github.com/merbridge/merbridge
 common:
+  - type: DomainSecurity
+    url: security/merbridge-domain-security.yml
   - type: Website
     url: https://merbridge.io/
   - type: Documentation

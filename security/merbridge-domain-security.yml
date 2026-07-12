@@ -1,0 +1,21 @@
+generated: '2026-07-11'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: merbridge.io
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Sep 20 11:52:53 2026 GMT
+  hsts: false
+domains:
+- domain: merbridge.io
+  dnssec: true
+  caa:
+  - merbridge.github.io.
+  - 0 issuewild "sectigo.com"
+  - 0 issue "digicert.com"
+  - 0 issue "letsencrypt.org"
+  - 0 issue "sectigo.com"
+  - 0 issuewild "digicert.com"
+  spf: false
+  dmarc: false
