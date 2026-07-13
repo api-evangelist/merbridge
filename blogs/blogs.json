@@ -9,17 +9,17 @@
       "method": "feed"
     },
     {
-      "source": "https://merbridge.io/docs/getting-started",
-      "error": "HTTPError"
-    },
-    {
       "source": "https://github.com/merbridge/merbridge",
       "feed_url": "https://github.com/merbridge/merbridge",
       "title": "",
       "saved": 0,
       "method": "none"
+    },
+    {
+      "source": "https://merbridge.io/docs/getting-started",
+      "error": "HTTPError"
     }
   ],
   "post_count": 16,
-  "fetched": "2026-06-27T12:03:07Z"
+  "fetched": "2026-07-11T11:50:51Z"
 }
